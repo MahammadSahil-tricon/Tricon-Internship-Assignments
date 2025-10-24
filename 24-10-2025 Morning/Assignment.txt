@@ -1,0 +1,2 @@
+Create one basic repository then update readme, create feature branch (branch named feature) then create a pull request
+and take all the snap shorts of the tasks and update it in the Drive which is provided.
